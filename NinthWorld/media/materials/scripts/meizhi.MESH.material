@@ -1,0 +1,121 @@
+material Material#25
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588 1
+			diffuse 0.588 0.588 0.588 1
+			specular 0 0 0 1 10
+			cull_hardware none
+			cull_software none
+
+			texture_unit
+			{
+				texture 276a458_0.dds
+			}
+		}
+
+	}
+
+}
+
+
+
+material Material#26
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588 1
+			diffuse 0.588 0.588 0.588 1
+			specular 0 0 0 1 10
+			scene_blend one one_minus_src_alpha
+			cull_hardware none
+			cull_software none
+
+			texture_unit
+			{
+				texture 3271e4a0_0.dds
+			}
+		}
+
+	}
+
+}
+
+
+
+material Material#27
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588 1
+			diffuse 0.588 0.588 0.588 1
+			specular 0 0 0 1 10
+			scene_blend one one_minus_src_alpha
+			cull_hardware none
+			cull_software none
+
+			texture_unit
+			{
+				texture 3271d998_0.dds
+			}
+		}
+
+	}
+
+}
+
+
+
+material Material#28
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588 1
+			diffuse 0.588 0.588 0.588 1
+			specular 0 0 0 1 10
+			scene_blend one one_minus_src_alpha
+			cull_hardware none
+			cull_software none
+
+			texture_unit
+			{
+				texture 3271ce90_0.dds
+			}
+		}
+
+	}
+
+}
+
+
+
+material Material#29
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588 1
+			diffuse 0.588 0.588 0.588 1
+			specular 0 0 0 1 10
+			scene_blend one one_minus_src_alpha
+			cull_hardware none
+			cull_software none
+
+			texture_unit
+			{
+				texture 3271c388_0.dds
+			}
+		}
+
+	}
+
+}

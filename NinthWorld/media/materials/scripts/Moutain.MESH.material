@@ -1,0 +1,1041 @@
+material 0489afa6.dds
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+			diffuse 0.7 0.7 0.7 1
+			specular 0.1 0.1 0.1 1 10
+			scene_blend one one_minus_src_alpha
+
+			texture_unit
+			{
+				texture 0489afa6.dds
+			}
+		}
+
+	}
+
+}
+
+
+
+material 04e7ed0a.dds
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+			diffuse 0.7 0.7 0.7 1
+			specular 0.1 0.1 0.1 1 10
+			scene_blend one one_minus_src_alpha
+
+			texture_unit
+			{
+				texture 04e7ed0a.dds
+			}
+		}
+
+	}
+
+}
+
+
+
+material 05e266e4.dds
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+			diffuse 0.7 0.7 0.7 1
+			specular 0.1 0.1 0.1 1 10
+			scene_blend one one_minus_src_alpha
+			cull_hardware none
+			cull_software none
+
+			texture_unit
+			{
+				texture 05e266e4.dds
+			}
+		}
+
+	}
+
+}
+
+
+
+material 0753fada.dds
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+			diffuse 0.7 0.7 0.7 1
+			specular 0.1 0.1 0.1 1 10
+			scene_blend one one_minus_src_alpha
+
+			texture_unit
+			{
+				texture 0753fada.dds
+			}
+		}
+
+	}
+
+}
+
+
+
+material 08bf7302.dds
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+			diffuse 0.7 0.7 0.7 1
+			specular 0.1 0.1 0.1 1 10
+			scene_blend one one_minus_src_alpha
+			cull_hardware none
+			cull_software none
+
+			texture_unit
+			{
+				texture 08bf7302.dds
+			}
+		}
+
+	}
+
+}
+
+
+
+material 161051ce.dds
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+			diffuse 0.7 0.7 0.7 1
+			specular 0.1 0.1 0.1 1 10
+			scene_blend one one_minus_src_alpha
+			cull_hardware none
+			cull_software none
+
+			texture_unit
+			{
+				texture 161051ce.dds
+			}
+		}
+
+	}
+
+}
+
+
+
+material 23e22518.dds
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+			diffuse 0.7 0.7 0.7 1
+			specular 0.1 0.1 0.1 1 10
+			scene_blend one one_minus_src_alpha
+
+			texture_unit
+			{
+				texture 23e22518.dds
+			}
+		}
+
+	}
+
+}
+
+
+
+material 370b3fa9.dds
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+			diffuse 0.7 0.7 0.7 1
+			specular 0.1 0.1 0.1 1 10
+			scene_blend one one_minus_src_alpha
+			cull_hardware none
+			cull_software none
+
+			texture_unit
+			{
+				texture 370b3fa9.dds
+			}
+		}
+
+	}
+
+}
+
+
+
+material 3b4d8ae1.dds
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+			diffuse 0.7 0.7 0.7 1
+			specular 0.1 0.1 0.1 1 10
+			scene_blend one one_minus_src_alpha
+			cull_hardware none
+			cull_software none
+
+			texture_unit
+			{
+				texture 3b4d8ae1.dds
+			}
+		}
+
+	}
+
+}
+
+
+
+material 548cea16.dds
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+			diffuse 0.7 0.7 0.7 1
+			specular 0.1 0.1 0.1 1 10
+			scene_blend one one_minus_src_alpha
+			cull_hardware none
+			cull_software none
+
+			texture_unit
+			{
+				texture 548cea16.dds
+			}
+		}
+
+	}
+
+}
+
+
+
+material 5c9fd3fa.dds
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+			diffuse 0.7 0.7 0.7 1
+			specular 0.1 0.1 0.1 1 10
+			scene_blend one one_minus_src_alpha
+			cull_hardware none
+			cull_software none
+
+			texture_unit
+			{
+				texture 5c9fd3fa.dds
+			}
+		}
+
+	}
+
+}
+
+
+
+material 64a5fda3.dds
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+			diffuse 0.7 0.7 0.7 1
+			specular 0.1 0.1 0.1 1 10
+			scene_blend one one_minus_src_alpha
+			cull_hardware none
+			cull_software none
+
+			texture_unit
+			{
+				texture 64a5fda3.dds
+			}
+		}
+
+	}
+
+}
+
+
+
+material 6c2be476.dds
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+			diffuse 0.7 0.7 0.7 1
+			specular 0.1 0.1 0.1 1 10
+			scene_blend one one_minus_src_alpha
+			cull_hardware none
+			cull_software none
+
+			texture_unit
+			{
+				texture 6c2be476.dds
+			}
+		}
+
+	}
+
+}
+
+
+
+material 6eaf04ff.dds
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+			diffuse 0.7 0.7 0.7 1
+			specular 0.1 0.1 0.1 1 10
+			scene_blend one one_minus_src_alpha
+
+			texture_unit
+			{
+				texture 6eaf04ff.dds
+			}
+		}
+
+	}
+
+}
+
+
+
+material 71e6d911.dds
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+			diffuse 0.7 0.7 0.7 1
+			specular 0.1 0.1 0.1 1 10
+			scene_blend one one_minus_src_alpha
+
+			texture_unit
+			{
+				texture 71e6d911.dds
+			}
+		}
+
+	}
+
+}
+
+
+
+material 75547712.dds
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+			diffuse 0.7 0.7 0.7 1
+			specular 0.1 0.1 0.1 1 10
+			scene_blend one one_minus_src_alpha
+			cull_hardware none
+			cull_software none
+
+			texture_unit
+			{
+				texture 75547712.dds
+			}
+		}
+
+	}
+
+}
+
+
+
+material 78c4505c.dds
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+			diffuse 0.7 0.7 0.7 1
+			specular 0.1 0.1 0.1 1 10
+			scene_blend one one_minus_src_alpha
+
+			texture_unit
+			{
+				texture 78c4505c.dds
+			}
+		}
+
+	}
+
+}
+
+
+
+material 7e8281eb.dds
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+			diffuse 0.7 0.7 0.7 1
+			specular 0.1 0.1 0.1 1 10
+			scene_blend one one_minus_src_alpha
+			cull_hardware none
+			cull_software none
+
+			texture_unit
+			{
+				texture 7e8281eb.dds
+			}
+		}
+
+	}
+
+}
+
+
+
+material 909fbdd5.dds
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+			diffuse 0.7 0.7 0.7 1
+			specular 0.1 0.1 0.1 1 10
+			scene_blend one one_minus_src_alpha
+			cull_hardware none
+			cull_software none
+
+			texture_unit
+			{
+				texture 909fbdd5.dds
+			}
+		}
+
+	}
+
+}
+
+
+
+material 90fb0916.dds
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+			diffuse 0.7 0.7 0.7 1
+			specular 0.1 0.1 0.1 1 10
+			cull_hardware none
+			cull_software none
+
+			texture_unit
+			{
+				texture 90fb0916.dds
+			}
+		}
+
+	}
+
+}
+
+
+
+material 91e4667f.dds
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+			diffuse 0.7 0.7 0.7 1
+			specular 0.1 0.1 0.1 1 10
+			scene_blend one one_minus_src_alpha
+			cull_hardware none
+			cull_software none
+
+			texture_unit
+			{
+				texture 91e4667f.dds
+			}
+		}
+
+	}
+
+}
+
+
+
+material 936ef12a.dds
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+			diffuse 0.7 0.7 0.7 1
+			specular 0.1 0.1 0.1 1 10
+			scene_blend one one_minus_src_alpha
+			cull_hardware none
+			cull_software none
+
+			texture_unit
+			{
+				texture 936ef12a.dds
+			}
+		}
+
+	}
+
+}
+
+
+
+material 949c05e7.dds
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+			diffuse 0.7 0.7 0.7 1
+			specular 0.1 0.1 0.1 1 10
+			scene_blend one one_minus_src_alpha
+			cull_hardware none
+			cull_software none
+
+			texture_unit
+			{
+				texture 949c05e7.dds
+			}
+		}
+
+	}
+
+}
+
+
+
+material 9923e16f.dds
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+			diffuse 0.7 0.7 0.7 1
+			specular 0.1 0.1 0.1 1 10
+			scene_blend one one_minus_src_alpha
+			cull_hardware none
+			cull_software none
+
+			texture_unit
+			{
+				texture 9923e16f.dds
+			}
+		}
+
+	}
+
+}
+
+
+
+material 993b8424.dds
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+			diffuse 0.7 0.7 0.7 1
+			specular 0.1 0.1 0.1 1 10
+			scene_blend one one_minus_src_alpha
+			cull_hardware none
+			cull_software none
+
+			texture_unit
+			{
+				texture 993b8424.dds
+			}
+		}
+
+	}
+
+}
+
+
+
+material 9ca4ed2a.dds
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+			diffuse 0.7 0.7 0.7 1
+			specular 0.1 0.1 0.1 1 10
+			scene_blend one one_minus_src_alpha
+
+			texture_unit
+			{
+				texture 9ca4ed2a.dds
+			}
+		}
+
+	}
+
+}
+
+
+
+material b5d06a91.dds
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+			diffuse 0.7 0.7 0.7 1
+			specular 0.1 0.1 0.1 1 10
+			scene_blend one one_minus_src_alpha
+
+			texture_unit
+			{
+				texture b5d06a91.dds
+			}
+		}
+
+	}
+
+}
+
+
+
+material b686e017.dds
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+			diffuse 0.7 0.7 0.7 1
+			specular 0.1 0.1 0.1 1 10
+			scene_blend one one_minus_src_alpha
+			cull_hardware none
+			cull_software none
+
+			texture_unit
+			{
+				texture b686e017.dds
+			}
+		}
+
+	}
+
+}
+
+
+
+material bdfab99d.dds
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+			diffuse 0.7 0.7 0.7 1
+			specular 0.1 0.1 0.1 1 10
+			scene_blend one one_minus_src_alpha
+			cull_hardware none
+			cull_software none
+
+			texture_unit
+			{
+				texture 7e8281eb.dds
+			}
+		}
+
+	}
+
+}
+
+
+
+material be5c0c4e.dds
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+			diffuse 0.7 0.7 0.7 1
+			specular 0.1 0.1 0.1 1 10
+			scene_blend one one_minus_src_alpha
+
+			texture_unit
+			{
+				texture be5c0c4e.dds
+			}
+		}
+
+	}
+
+}
+
+
+
+material cb9c6731.dds
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+			diffuse 0.7 0.7 0.7 1
+			specular 0.1 0.1 0.1 1 10
+			scene_blend one one_minus_src_alpha
+			cull_hardware none
+			cull_software none
+
+			texture_unit
+			{
+				texture cb9c6731.dds
+			}
+		}
+
+	}
+
+}
+
+
+
+material d47e82f3.dds
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+			diffuse 0.7 0.7 0.7 1
+			specular 0.1 0.1 0.1 1 10
+			scene_blend one one_minus_src_alpha
+
+			texture_unit
+			{
+				texture be5c0c4e.dds
+			}
+		}
+
+	}
+
+}
+
+
+
+material d694197c.dds
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+			diffuse 0.7 0.7 0.7 1
+			specular 0.1 0.1 0.1 1 10
+			scene_blend one one_minus_src_alpha
+			cull_hardware none
+			cull_software none
+
+			texture_unit
+			{
+				texture d694197c.dds
+			}
+		}
+
+	}
+
+}
+
+
+
+material d7acefbd.dds
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+			diffuse 0.7 0.7 0.7 1
+			specular 0.1 0.1 0.1 1 10
+			scene_blend one one_minus_src_alpha
+			cull_hardware none
+			cull_software none
+
+			texture_unit
+			{
+				texture d7acefbd.dds
+			}
+		}
+
+	}
+
+}
+
+
+
+material dae90159.dds
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+			diffuse 0.7 0.7 0.7 1
+			specular 0.1 0.1 0.1 1 10
+			scene_blend one one_minus_src_alpha
+			cull_hardware none
+			cull_software none
+
+			texture_unit
+			{
+				texture dae90159.dds
+			}
+		}
+
+	}
+
+}
+
+
+
+material e0ab7367.dds
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+			diffuse 0.7 0.7 0.7 1
+			specular 0.1 0.1 0.1 1 10
+			scene_blend one one_minus_src_alpha
+
+			texture_unit
+			{
+				texture e0ab7367.dds
+			}
+		}
+
+	}
+
+}
+
+
+
+material e3150310.dds
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+			diffuse 0.7 0.7 0.7 1
+			specular 0.1 0.1 0.1 1 10
+			scene_blend one one_minus_src_alpha
+			cull_hardware none
+			cull_software none
+
+			texture_unit
+			{
+				texture e3150310.dds
+			}
+		}
+
+	}
+
+}
+
+
+
+material e6d55998.dds
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+			diffuse 0.7 0.7 0.7 1
+			specular 0.1 0.1 0.1 1 10
+			scene_blend one one_minus_src_alpha
+
+			texture_unit
+			{
+				texture e6d55998.dds
+			}
+		}
+
+	}
+
+}
+
+
+
+material ec85e853.dds
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+			diffuse 0.7 0.7 0.7 1
+			specular 0.1 0.1 0.1 1 10
+			scene_blend one one_minus_src_alpha
+
+			texture_unit
+			{
+				texture ec85e853.dds
+			}
+		}
+
+	}
+
+}
+
+
+
+material f273b81a.dds
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+			diffuse 0.7 0.7 0.7 1
+			specular 0.1 0.1 0.1 1 10
+			scene_blend one one_minus_src_alpha
+			cull_hardware none
+			cull_software none
+
+			texture_unit
+			{
+				texture f273b81a.dds
+			}
+		}
+
+	}
+
+}
+
+
+
+material f439954c.dds
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+			diffuse 0.7 0.7 0.7 1
+			specular 0.1 0.1 0.1 1 10
+			scene_blend one one_minus_src_alpha
+			cull_hardware none
+			cull_software none
+
+			texture_unit
+			{
+				texture f439954c.dds
+			}
+		}
+
+	}
+
+}
+
+
+
+material f8e7ba91.dds
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+			diffuse 0.7 0.7 0.7 1
+			specular 0.1 0.1 0.1 1 10
+			scene_blend one one_minus_src_alpha
+			cull_hardware none
+			cull_software none
+
+			texture_unit
+			{
+				texture f8e7ba91.dds
+			}
+		}
+
+	}
+
+}
+
+
+
+material fd134246.dds
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+			diffuse 0.7 0.7 0.7 1
+			specular 0.1 0.1 0.1 1 10
+			scene_blend one one_minus_src_alpha
+
+			texture_unit
+			{
+				texture fd134246.dds
+			}
+		}
+
+	}
+
+}
